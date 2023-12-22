@@ -1,6 +1,6 @@
 AppConfiguration:
   applicationInformation:
-    name: "MyApp-Alternative"
+    name: "MyApp-Alternative-2"
     version: 2
   configs:
     - "config1"
